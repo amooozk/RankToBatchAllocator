@@ -24,9 +24,9 @@ public:
 
 
   void printSelf() {
-    std::cout << "Roll no. : " << rollnum;
-    std::cout << "Name     : " << name;
-    std::cout << "rank     : " << rank;
+    std::cout << "Roll no. : " << rollnum << "\n";
+    std::cout << "Name     : " << name << "\n";
+    std::cout << "rank     : " << rank << "\n";
   }
 };
 
@@ -42,9 +42,9 @@ public:
   // : batchcode(batchcode), name(name), size(size){
   //
   void printSelf() {
-    std::cout << "Batch Code     : " << batchcode;
-    std::cout << "Name           : " << name;
-    std::cout << "Space left     : " << size;
+    std::cout << "Batch Code     : " << batchcode << "\n";
+    std::cout << "Name           : " << name << "\n";
+    std::cout << "Space left     : " << size << "\n";
   }
 };
 
