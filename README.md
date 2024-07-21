@@ -6,4 +6,5 @@ We need to allocate batches to students based on their ranks in an exam.
 
 1. Each student will give their preference of batches.
 2. The program will take students rank-wise.
-3. It will allocate them the best preference possible provided that there can be 30 students in each batch.
+3. It will allocate them the best preference possible provided that there can be a limited number of students in each batch.
+4. Currently this code is very inefficient and unorganised.
